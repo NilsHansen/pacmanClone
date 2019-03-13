@@ -1,0 +1,25 @@
+body {
+	background-color: #a8a8a8;
+}
+
+#gameField {
+	border:1px solid #000;
+	width: 756px;
+	margin: auto;
+	background-color: #343434;
+	position: relative;
+}
+
+#gameField tr {
+	height: 27px;
+}
+
+#gameField td {
+	width: 27px;
+}
+
+#gameField img {
+	position: absolute;
+	top: 27px;
+	left: 27px;
+}
