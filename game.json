@@ -1,0 +1,7 @@
+{
+    "name": "Pacman",
+    "img" : "images/pacOverview.png",
+    "desc" : "Das gute alte Pacman... Nachbau inkl. damaligem Level. Leider noch nicht ganz fertig...",
+    "wip" : true,
+    "tags" : ["pacman","blinky","pinky","nostalgie","arcade","1980sGames"]
+}
